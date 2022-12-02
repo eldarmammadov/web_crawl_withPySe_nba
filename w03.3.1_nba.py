@@ -36,7 +36,6 @@ f.write(element_to_save.text)
 f.write("\n")
 f.write(str(datetime.today()))
 myList=[]
-myList.append(1)
 
 wait = WebDriverWait(driver, 10)
 elements_to_save=wait.until(EC.visibility_of_all_elements_located((By.XPATH, "//*[@data-id='nba:schedule:main:team:link']")))
@@ -62,7 +61,8 @@ f.close()
 time.sleep(1)
 driver.get("https://www.nba.com/stats/teams/traditional")
 
-"""season_click=wait.until(EC.visibility_of_all_elements_located((By.XPATH,"//option[@value='2021-22']")))
+"""#selecting the season stats
+season_click=wait.until(EC.visibility_of_all_elements_located((By.XPATH,"//option[@value='2021-22']")))
 season_click[0].click()"""
 
 d=1
@@ -77,11 +77,14 @@ for d in range(len(myList)):
         teamStats.append("new-comer-team")
 
     #print("-",teamStats)
-    for i in range(7):
+    #gathering first 8 statistical data from table according team names
+    #TeamName, GamesPlayed, Win, Losses, WIN%, MINutesplayed, PoinTS
+    for i in range(8):
         a=i+1
         teamStats.append(tr.find_element(By.XPATH, ".//td["+str(a)+"]").text)
-        ws.cell(row=int(d)+1, column=int(a)+1, value=tr.find_element(By.XPATH, ".//td[" + str(a) + "]").text)
-        #print("--", teamStats)
+        ws.cell(row=int(d)+2, column=int(a)+1, value=tr.find_element(By.XPATH, ".//td[" + str(a) + "]").text)
+        print("--", teamStats)
+        print(myList[d],a,i)
 
 #print("---",teamStats)
 
