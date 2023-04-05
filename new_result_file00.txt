@@ -1,0 +1,342 @@
+SATURDAY, OCTOBER 1 (PRESEASON)
+2022-10-13 09:37:06.327924 Memphis Grizzlies 
+ 2022-10-13 09:37:11.485445 Milwaukee Bucks 
+ 2022-10-13 09:37:11.520927 Washington Wizards 
+ 2022-10-13 09:37:11.554847 Golden State Warriors 
+ 2022-10-13 09:37:11.584648 Charlotte Hornets 
+ 2022-10-13 09:37:11.618552 Boston Celtics 
+ 2022-10-13 09:37:11.650369 Utah Jazz 
+ 2022-10-13 09:37:11.683250 Toronto Raptors 
+ 2022-10-13 09:37:11.714955 San Antonio Spurs 
+ 2022-10-13 09:37:11.758833 Houston Rockets 
+ 2022-10-13 09:37:11.889898 Adelaide 36ers 
+ 2022-10-13 09:37:11.921782 Phoenix Suns 
+ 2022-10-13 09:37:12.041336 Philadelphia 76ers 
+ 2022-10-13 09:37:12.084774 Brooklyn Nets 
+ 2022-10-13 09:37:12.120654 Orlando Magic 
+ 2022-10-13 09:37:12.154563 Memphis Grizzlies 
+ 2022-10-13 09:37:12.185693 Oklahoma City Thunder 
+ 2022-10-13 09:37:12.222596 Denver Nuggets 
+ 2022-10-13 09:37:12.279443 Sacramento Kings 
+ 2022-10-13 09:37:12.350642 Los Angeles Lakers 
+ 2022-10-13 09:37:12.385574 Portland Trail Blazers 
+ 2022-10-13 09:37:12.419480 LA Clippers 
+ 2022-10-13 09:37:12.451282 Detroit Pistons 
+ 2022-10-13 09:37:12.485193 New York Knicks 
+ 2022-10-13 09:37:12.516887 Minnesota Timberwolves 
+ 2022-10-13 09:37:12.552792 Miami Heat 
+ 2022-10-13 09:37:12.584560 New Orleans Pelicans 
+ 2022-10-13 09:37:12.617496 Chicago Bulls 
+ 2022-10-13 09:37:12.649243 Utah Jazz 
+ 2022-10-13 09:37:12.681178 Portland Trail Blazers 
+ 2022-10-13 09:37:12.712065 Indiana Pacers 
+ 2022-10-13 09:37:12.748998 Charlotte Hornets 
+ 2022-10-13 09:37:12.784644 Cleveland Cavaliers 
+ 2022-10-13 09:37:12.823539 Philadelphia 76ers 
+ 2022-10-13 09:37:12.854457 Toronto Raptors 
+ 2022-10-13 09:37:12.887392 Boston Celtics 
+ 2022-10-13 09:37:12.919288 Dallas Mavericks 
+ 2022-10-13 09:37:12.957953 Oklahoma City Thunder 
+ 2022-10-13 09:37:12.991138 Phoenix Suns 
+ 2022-10-13 09:37:13.024833 Los Angeles Lakers 
+ 2022-10-13 09:37:13.056723 Milwaukee Bucks 
+ 2022-10-13 09:37:13.089640 Atlanta Hawks 
+ 2022-10-13 09:37:13.126536 Miami Heat 
+ 2022-10-13 09:37:13.160922 Brooklyn Nets 
+ 2022-10-13 09:37:13.193834 Adelaide 36ers 
+ 2022-10-13 09:37:13.223725 Oklahoma City Thunder 
+ 2022-10-13 09:37:13.255636 Orlando Magic 
+ 2022-10-13 09:37:13.289571 San Antonio Spurs 
+ 2022-10-13 09:37:13.323456 Ra'anana Maccabi Ra'anana 
+ 2022-10-13 09:37:13.361385 Portland Trail Blazers 
+ 2022-10-13 09:37:13.397183 Minnesota Timberwolves 
+ 2022-10-13 09:37:13.431093 Los Angeles Lakers 
+ 2022-10-13 09:37:13.464007 Boston Celtics 
+ 2022-10-13 09:37:13.500044 Charlotte Hornets 
+ 2022-10-13 09:37:13.535177 Indiana Pacers 
+ 2022-10-13 09:37:13.568799 New York Knicks 
+ 2022-10-13 09:37:13.602743 Denver Nuggets 
+ 2022-10-13 09:37:13.635651 Chicago Bulls 
+ 2022-10-13 09:37:13.669529 Toronto Raptors 
+ 2022-10-13 09:37:13.701474 Houston Rockets 
+ 2022-10-13 09:37:13.734559 Miami Heat 
+ 2022-10-13 09:37:13.779438 Memphis Grizzlies 
+ 2022-10-13 09:37:13.815374 Detroit Pistons 
+ 2022-10-13 09:37:13.858227 New Orleans Pelicans 
+ 2022-10-13 09:37:13.899415 Orlando Magic 
+ 2022-10-13 09:37:13.935544 Dallas Mavericks 
+ 2022-10-13 09:37:13.968424 Atlanta Hawks 
+ 2022-10-13 09:37:14.004171 Milwaukee Bucks 
+ 2022-10-13 09:37:14.042102 Chicago Bulls 
+ 2022-10-13 09:37:14.078970 Toronto Raptors 
+ 2022-10-13 09:37:14.119863 Ra'anana Maccabi Ra'anana 
+ 2022-10-13 09:37:14.164742 Oklahoma City Thunder 
+ 2022-10-13 09:37:14.202223 New Orleans Pelicans 
+ 2022-10-13 09:37:14.242086 San Antonio Spurs 
+ 2022-10-13 09:37:14.277792 Los Angeles Lakers 
+ 2022-10-13 09:37:14.310841 Golden State Warriors 
+ 2022-10-13 09:37:14.344750 Portland Trail Blazers 
+ 2022-10-13 09:37:14.383575 Sacramento Kings 
+ 2022-10-13 09:37:14.423505 Minnesota Timberwolves 
+ 2022-10-13 09:37:14.459373 LA Clippers 
+ 2022-10-13 09:37:14.497223 Washington Wizards 
+ 2022-10-13 09:37:14.534092 Charlotte Hornets 
+ 2022-10-13 09:37:14.567845 Philadelphia 76ers 
+ 2022-10-13 09:37:14.606709 Cleveland Cavaliers 
+ 2022-10-13 09:37:14.639620 Houston Rockets 
+ 2022-10-13 09:37:14.677547 Miami Heat 
+ 2022-10-13 09:37:14.713848 Phoenix Suns 
+ 2022-10-13 09:37:14.750751 Denver Nuggets 
+ 2022-10-13 09:37:14.786487 Oklahoma City Thunder 
+ 2022-10-13 09:37:14.822408 Detroit Pistons 
+ 2022-10-13 09:37:14.867257 Memphis Grizzlies 
+ 2022-10-13 09:37:14.917062 Orlando Magic 
+ 2022-10-13 09:37:14.953964 Milwaukee Bucks 
+ 2022-10-13 09:37:14.993857 Chicago Bulls 
+ 2022-10-13 09:37:15.024447 San Antonio Spurs 
+ 2022-10-13 09:37:15.062376 Utah Jazz 
+ 2022-10-13 09:37:15.081349 Portland Trail Blazers 
+ 2022-10-13 09:37:15.144667 Golden State Warriors 
+ 2022-10-13 09:37:15.183562 Atlanta Hawks 
+ 2022-10-13 09:37:15.236772 Cleveland Cavaliers 
+ 2022-10-13 09:37:15.274639 New York Knicks 
+ 2022-10-13 09:37:15.311543 Indiana Pacers 
+ 2022-10-13 09:37:15.369150 Charlotte Hornets 
+ 2022-10-13 09:37:15.417051 Philadelphia 76ers 
+ 2022-10-13 09:37:15.455550 New Orleans Pelicans 
+ 2022-10-13 09:37:15.493448 Miami Heat 
+ 2022-10-13 09:37:15.531495 Brooklyn Nets 
+ 2022-10-13 09:37:15.570388 Milwaukee Bucks 
+ 2022-10-13 09:37:15.604094 Minnesota Timberwolves 
+ 2022-10-13 09:37:15.638004 Los Angeles Lakers 
+ 2022-10-13 09:37:15.671734 Sacramento Kings 
+ 2022-10-13 09:37:15.709632 Phoenix Suns 
+ 2022-10-13 09:37:15.743202 Denver Nuggets 
+ 2022-10-13 09:37:15.780072 LA Clippers 
+ 2022-10-13 09:37:15.814805 Memphis Grizzlies 
+ 2022-10-13 09:37:15.849746 Detroit Pistons 
+ 2022-10-13 09:37:15.882625 Oklahoma City Thunder 
+ 2022-10-13 09:37:15.922546 San Antonio Spurs 
+ 2022-10-13 09:37:15.968083 Houston Rockets 
+ 2022-10-13 09:37:16.004083 Indiana Pacers 
+ 2022-10-13 09:37:16.037959 Cleveland Cavaliers 
+ 2022-10-13 09:37:16.071850 Orlando Magic 
+ 2022-10-13 09:37:16.106725 Boston Celtics 
+ 2022-10-13 09:37:16.148612 Toronto Raptors 
+ 2022-10-13 09:37:16.190450 Washington Wizards 
+ 2022-10-13 09:37:16.224326 New York Knicks 
+ 2022-10-13 09:37:16.261257 Brooklyn Nets 
+ 2022-10-13 09:37:16.294139 Minnesota Timberwolves 
+ 2022-10-13 09:37:16.329015 Atlanta Hawks 
+ 2022-10-13 09:37:16.362924 New Orleans Pelicans 
+ 2022-10-13 09:37:16.399032 Dallas Mavericks 
+ 2022-10-13 09:37:16.441477 Utah Jazz 
+ 2022-10-13 09:37:16.476383 Denver Nuggets 
+ 2022-10-13 09:37:16.511901 Golden State Warriors 
+ 2022-10-13 09:37:16.546776 Los Angeles Lakers 
+ 2022-10-13 09:37:16.581448 Sacramento Kings 
+ 2022-10-13 09:37:16.614362 Philadelphia 76ers 
+ 2022-10-13 09:37:16.657029 Boston Celtics 
+ 2022-10-13 09:37:16.691961 Los Angeles Lakers 
+ 2022-10-13 09:37:16.726874 Golden State Warriors 
+ 2022-10-13 09:37:16.760676 Orlando Magic 
+ 2022-10-13 09:37:16.796579 Detroit Pistons 
+ 2022-10-13 09:37:16.832373 Washington Wizards 
+ 2022-10-13 09:37:16.868308 Indiana Pacers 
+ 2022-10-13 09:37:16.904212 Houston Rockets 
+ 2022-10-13 09:37:16.943108 Atlanta Hawks 
+ 2022-10-13 09:37:16.978354 New Orleans Pelicans 
+ 2022-10-13 09:37:17.023234 Brooklyn Nets 
+ 2022-10-13 09:37:17.057063 Chicago Bulls 
+ 2022-10-13 09:37:17.091940 Miami Heat 
+ 2022-10-13 09:37:17.135821 Cleveland Cavaliers 
+ 2022-10-13 09:37:17.170731 Toronto Raptors 
+ 2022-10-13 09:37:17.205659 New York Knicks 
+ 2022-10-13 09:37:17.247301 Memphis Grizzlies 
+ 2022-10-13 09:37:17.282368 Oklahoma City Thunder 
+ 2022-10-13 09:37:17.318272 Minnesota Timberwolves 
+ 2022-10-13 09:37:17.354032 Charlotte Hornets 
+ 2022-10-13 09:37:17.388938 San Antonio Spurs 
+ 2022-10-13 09:37:17.427834 Denver Nuggets 
+ 2022-10-13 09:37:17.464763 Utah Jazz 
+ 2022-10-13 09:37:17.498672 Dallas Mavericks 
+ 2022-10-13 09:37:17.537568 Phoenix Suns 
+ 2022-10-13 09:37:17.572441 Portland Trail Blazers 
+ 2022-10-13 09:37:17.614959 Sacramento Kings 
+ 2022-10-13 09:37:17.651860 Milwaukee Bucks 
+ 2022-10-13 09:37:17.687764 Philadelphia 76ers 
+ 2022-10-13 09:37:17.720619 LA Clippers 
+ 2022-10-13 09:37:17.760544 Los Angeles Lakers 
+ 2022-10-13 09:37:17.797035 New Orleans Pelicans 
+ 2022-10-13 09:37:17.836929 Charlotte Hornets 
+ 2022-10-13 09:37:17.869841 San Antonio Spurs 
+ 2022-10-13 09:37:17.905744 Indiana Pacers 
+ 2022-10-13 09:37:17.940388 Chicago Bulls 
+ 2022-10-13 09:37:17.975294 Washington Wizards 
+ 2022-10-13 09:37:18.010170 Orlando Magic 
+ 2022-10-13 09:37:18.051991 Atlanta Hawks 
+ 2022-10-13 09:37:18.092879 Toronto Raptors 
+ 2022-10-13 09:37:18.142287 Brooklyn Nets 
+ 2022-10-13 09:37:18.178571 Boston Celtics 
+ 2022-10-13 09:37:18.214628 Miami Heat 
+ 2022-10-13 09:37:18.250534 Detroit Pistons 
+ 2022-10-13 09:37:18.285307 New York Knicks 
+ 2022-10-13 09:37:18.321199 Memphis Grizzlies 
+ 2022-10-13 09:37:18.354980 Houston Rockets 
+ 2022-10-13 09:37:18.391883 Utah Jazz 
+ 2022-10-13 09:37:18.433624 Minnesota Timberwolves 
+ 2022-10-13 09:37:18.470917 Denver Nuggets 
+ 2022-10-13 09:37:18.506821 Golden State Warriors 
+ 2022-10-13 09:37:18.542323 Phoenix Suns 
+ 2022-10-13 09:37:18.581187 Portland Trail Blazers 
+ 2022-10-13 09:37:18.619090 San Antonio Spurs 
+ 2022-10-13 09:37:18.655987 Philadelphia 76ers 
+ 2022-10-13 09:37:18.695277 Detroit Pistons 
+ 2022-10-13 09:37:18.730300 Indiana Pacers 
+ 2022-10-13 09:37:18.767235 Boston Celtics 
+ 2022-10-13 09:37:18.801960 Orlando Magic 
+ 2022-10-13 09:37:18.836868 Toronto Raptors 
+ 2022-10-13 09:37:18.872603 Miami Heat 
+ 2022-10-13 09:37:18.909526 Cleveland Cavaliers 
+ 2022-10-13 09:37:18.949426 Chicago Bulls 
+ 2022-10-13 09:37:18.985299 Houston Rockets 
+ 2022-10-13 09:37:19.021639 Milwaukee Bucks 
+ 2022-10-13 09:37:19.056546 Memphis Grizzlies 
+ 2022-10-13 09:37:19.096312 Dallas Mavericks 
+ 2022-10-13 09:37:19.146194 Oklahoma City Thunder 
+ 2022-10-13 09:37:19.183133 Denver Nuggets 
+ 2022-10-13 09:37:19.217608 LA Clippers 
+ 2022-10-13 09:37:19.260462 Sacramento Kings 
+ 2022-10-13 09:37:19.299027 Portland Trail Blazers 
+ 2022-10-13 09:37:19.335920 Los Angeles Lakers 
+ 2022-10-13 09:37:19.370825 Charlotte Hornets 
+ 2022-10-13 09:37:19.407726 Atlanta Hawks 
+ 2022-10-13 09:37:19.445356 Washington Wizards 
+ 2022-10-13 09:37:19.486248 Cleveland Cavaliers 
+ 2022-10-13 09:37:19.523180 Utah Jazz 
+ 2022-10-13 09:37:19.559877 New Orleans Pelicans 
+ 2022-10-13 09:37:19.597778 Minnesota Timberwolves 
+ 2022-10-13 09:37:19.635705 Oklahoma City Thunder 
+ 2022-10-13 09:37:19.671536 Sacramento Kings 
+ 2022-10-13 09:37:19.707440 Golden State Warriors 
+ 2022-10-13 09:37:19.741382 Phoenix Suns 
+ 2022-10-13 09:37:19.780247 LA Clippers 
+ 2022-10-13 09:37:19.817147 Indiana Pacers 
+ 2022-10-13 09:37:19.854049 Philadelphia 76ers 
+ 2022-10-13 09:37:19.888301 Toronto Raptors 
+ 2022-10-13 09:37:19.923178 Miami Heat 
+ 2022-10-13 09:37:19.957896 Orlando Magic 
+ 2022-10-13 09:37:19.998787 New York Knicks 
+ 2022-10-13 09:37:20.033877 Boston Celtics 
+ 2022-10-13 09:37:20.070776 Chicago Bulls 
+ 2022-10-13 09:37:20.106680 Utah Jazz 
+ 2022-10-13 09:37:20.155548 Houston Rockets 
+ 2022-10-13 09:37:20.196181 Brooklyn Nets 
+ 2022-10-13 09:37:20.232090 Memphis Grizzlies 
+ 2022-10-13 09:37:20.266967 San Antonio Spurs 
+ 2022-10-13 09:37:20.306842 Minnesota Timberwolves 
+ 2022-10-13 09:37:20.344767 Denver Nuggets 
+ 2022-10-13 09:37:20.382640 Portland Trail Blazers 
+ 2022-10-13 09:37:20.428517 Detroit Pistons 
+ 2022-10-13 09:37:20.469161 Washington Wizards 
+ 2022-10-13 09:37:20.505861 Dallas Mavericks 
+ 2022-10-13 09:37:20.544756 New Orleans Pelicans 
+ 2022-10-13 09:37:20.582259 LA Clippers 
+ 2022-10-13 09:37:20.619161 Oklahoma City Thunder 
+ 2022-10-13 09:37:20.655812 Golden State Warriors 
+ 2022-10-13 09:37:20.691714 Phoenix Suns 
+ 2022-10-13 09:37:20.727619 Orlando Magic 
+ 2022-10-13 09:37:20.764589 Cleveland Cavaliers 
+ 2022-10-13 09:37:20.799495 Atlanta Hawks 
+ 2022-10-13 09:37:20.841189 Detroit Pistons 
+ 2022-10-13 09:37:20.879325 Charlotte Hornets 
+ 2022-10-13 09:37:20.918969 New York Knicks 
+ 2022-10-13 09:37:20.956535 Philadelphia 76ers 
+ 2022-10-13 09:37:20.992211 Toronto Raptors 
+ 2022-10-13 09:37:21.028091 Brooklyn Nets 
+ 2022-10-13 09:37:21.064549 Milwaukee Bucks 
+ 2022-10-13 09:37:21.101449 Indiana Pacers 
+ 2022-10-13 09:37:21.151099 Chicago Bulls 
+ 2022-10-13 09:37:21.187141 San Antonio Spurs 
+ 2022-10-13 09:37:21.236042 Minnesota Timberwolves 
+ 2022-10-13 09:37:21.273524 Houston Rockets 
+ 2022-10-13 09:37:21.310394 Utah Jazz 
+ 2022-10-13 09:37:21.348327 Los Angeles Lakers 
+ 2022-10-13 09:37:21.384197 Denver Nuggets 
+ 2022-10-13 09:37:21.427491 Miami Heat 
+ 2022-10-13 09:37:21.468381 Portland Trail Blazers 
+ 2022-10-13 09:37:21.505814 Dallas Mavericks 
+ 2022-10-13 09:37:21.542715 Brooklyn Nets 
+ 2022-10-13 09:37:21.579648 LA Clippers 
+ 2022-10-13 09:37:21.616517 Oklahoma City Thunder 
+ 2022-10-13 09:37:21.655784 Miami Heat 
+ 2022-10-13 09:37:21.694711 Golden State Warriors 
+ 2022-10-13 09:37:21.736163 Memphis Grizzlies 
+ 2022-10-13 09:37:21.838031 Sacramento Kings 
+ 2022-10-13 09:37:21.887524 Atlanta Hawks 
+ 2022-10-13 09:37:21.922421 Detroit Pistons 
+ 2022-10-13 09:37:21.959322 Charlotte Hornets 
+ 2022-10-13 09:37:21.994866 Orlando Magic 
+ 2022-10-13 09:37:22.033782 Cleveland Cavaliers 
+ 2022-10-13 09:37:22.074530 Boston Celtics 
+ 2022-10-13 09:37:22.115388 Philadelphia 76ers 
+ 2022-10-13 09:37:22.236237 Toronto Raptors 
+ 2022-10-13 09:37:22.277132 Indiana Pacers 
+ 2022-10-13 09:37:22.317564 Washington Wizards 
+ 2022-10-13 09:37:22.360420 New York Knicks 
+ 2022-10-13 09:37:22.397794 Milwaukee Bucks 
+ 2022-10-13 09:37:22.435690 Los Angeles Lakers 
+ 2022-10-13 09:37:22.476411 Minnesota Timberwolves 
+ 2022-10-13 09:37:22.516442 Chicago Bulls 
+ 2022-10-13 09:37:22.552349 San Antonio Spurs 
+ 2022-10-13 09:37:22.589153 Utah Jazz 
+ 2022-10-13 09:37:22.630010 Denver Nuggets 
+ 2022-10-13 09:37:22.667937 New Orleans Pelicans 
+ 2022-10-13 09:37:22.704809 Phoenix Suns 
+ 2022-10-13 09:37:22.739066 Houston Rockets 
+ 2022-10-13 09:37:22.779952 Portland Trail Blazers 
+ 2022-10-13 09:37:22.819468 Miami Heat 
+ 2022-10-13 09:37:22.857336 Sacramento Kings 
+ 2022-10-13 09:37:22.893033 Golden State Warriors 
+ 2022-10-13 09:37:22.933952 Charlotte Hornets 
+ 2022-10-13 09:37:22.970822 Indiana Pacers 
+ 2022-10-13 09:37:23.008723 Brooklyn Nets 
+ 2022-10-13 09:37:23.044626 Philadelphia 76ers 
+ 2022-10-13 09:37:23.083185 Chicago Bulls 
+ 2022-10-13 09:37:23.124045 Atlanta Hawks 
+ 2022-10-13 09:37:23.165703 Milwaukee Bucks 
+ 2022-10-13 09:37:23.201607 Oklahoma City Thunder 
+ 2022-10-13 09:37:23.239506 Dallas Mavericks 
+ 2022-10-13 09:37:23.276417 Memphis Grizzlies 
+ 2022-10-13 09:37:23.321265 Utah Jazz 
+ 2022-10-13 09:37:23.364182 New Orleans Pelicans 
+ 2022-10-13 09:37:23.401791 LA Clippers 
+ 2022-10-13 09:37:23.444669 Washington Wizards 
+ 2022-10-13 09:37:23.482987 Boston Celtics 
+ 2022-10-13 09:37:23.519889 New York Knicks 
+ 2022-10-13 09:37:23.558814 Cleveland Cavaliers 
+ 2022-10-13 09:37:23.596056 Golden State Warriors 
+ 2022-10-13 09:37:23.634920 Detroit Pistons 
+ 2022-10-13 09:37:23.672846 Minnesota Timberwolves 
+ 2022-10-13 09:37:23.711669 San Antonio Spurs 
+ 2022-10-13 09:37:23.748783 Orlando Magic 
+ 2022-10-13 09:37:23.786710 Dallas Mavericks 
+ 2022-10-13 09:37:23.823314 Houston Rockets 
+ 2022-10-13 09:37:23.861214 Phoenix Suns 
+ 2022-10-13 09:37:23.898824 Denver Nuggets 
+ 2022-10-13 09:37:23.936692 Los Angeles Lakers 
+ 2022-10-13 09:37:23.975587 Sacramento Kings 
+ 2022-10-13 09:37:24.013487 Charlotte Hornets 
+ 2022-10-13 09:37:24.050709 Philadelphia 76ers 
+ 2022-10-13 09:37:24.088621 Washington Wizards 
+ 2022-10-13 09:37:24.133308 Indiana Pacers 
+ 2022-10-13 09:37:24.170206 Brooklyn Nets 
+ 2022-10-13 09:37:24.208136 Atlanta Hawks 
+ 2022-10-13 09:37:24.250967 Toronto Raptors 
+ 2022-10-13 09:37:24.286985 Detroit Pistons 
+ 2022-10-13 09:37:24.324881 Milwaukee Bucks 
+ 2022-10-13 09:37:24.367760 Memphis Grizzlies 
+ 2022-10-13 09:37:24.409645 Utah Jazz 
+ 2022-10-13 09:37:24.449511 Houston Rockets 
+ 2022-10-13 09:37:24.492394 LA Clippers 
+ 2022-10-13 09:37:24.530180
